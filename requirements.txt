@@ -1,0 +1,9 @@
+#mediapipe
+mediapipe==0.10.14
+
+#yolo
+ultralytics 
+torch
+
+#opencv
+opencv-python
